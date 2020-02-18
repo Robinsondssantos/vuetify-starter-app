@@ -1,15 +1,15 @@
 <template>
-  <app-root></app-root>
+  <app-container></app-container>
 </template>
 
 <script>
 // @ is an alias to /src
-import Root from '@/components/Root.vue'
+import Container from '@/components/Container.vue'
 
 export default {
   name: 'home',
   components: {
-    'app-root': Root
+    'app-container': Container
   }
 }
 </script>

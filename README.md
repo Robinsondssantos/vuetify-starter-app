@@ -4,25 +4,45 @@
 ```
 npm install
 ```
+or
+```
+yarn
+```
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+```
+or
+```
+yarn serve
 ```
 
 ### Compiles and minifies for production
 ```
 npm run build
 ```
+or
+```
+yarn build
+```
 
 ### Run your unit tests
 ```
 npm run test:unit
 ```
+or
+```
+yarn test:unit
+```
 
 ### Lints and fixes files
 ```
 npm run lint
+```
+or
+```
+yarn lint
 ```
 
 ### Customize configuration
